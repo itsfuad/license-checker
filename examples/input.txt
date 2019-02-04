@@ -1,0 +1,2 @@
+main.go|// SPDX-License-Identifier: MIT
+lib.go|// no license
